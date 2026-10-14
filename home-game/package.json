@@ -1,1 +1,1 @@
-{"name":"home-game","private":true,"packageManager":"npm@10.9.2","workspaces":["apps/*","packages/*"],"scripts":{"dev:web":"npm run dev -w @home-game/web","build:web":"npm run build -w @home-game/web","typecheck":"npm run typecheck -w @home-game/web"}}
+{"name":"home-game","private":true,"packageManager":"npm@10.9.2","workspaces":["apps/*","packages/*"],"scripts":{"dev:web":"npm run dev -w @home-game/web","build:web":"npm run build -w @home-game/web","typecheck":"npm run typecheck -w @home-game/web"},"overrides":{"postcss":"8.5.30","sharp":"0.35.5"}}
